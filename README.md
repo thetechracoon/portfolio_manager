@@ -89,13 +89,6 @@ Keep these files in the same directory as the executable to preserve your data a
 
 ---
 
-## Security Note
-
-> [!WARNING]
-> Never commit your `.env` file to version control. Add it to your `.gitignore` to prevent accidentally exposing your API key.
-
----
-
 ## Tech Stack
 
 - **Language:** C (C99)
